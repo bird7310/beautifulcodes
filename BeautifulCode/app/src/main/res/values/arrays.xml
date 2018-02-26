@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="p1">
+        <item>@drawable/anim_00</item>
+        <item>@drawable/anim_01</item>
+        <item>@drawable/anim_02</item>
+        <item>@drawable/anim_03</item>
+        <item>@drawable/anim_04</item>
+        <item>@drawable/anim_05</item>
+        <item>@drawable/anim_06</item>
+        <item>@drawable/anim_07</item>
+        <item>@drawable/anim_08</item>
+        <item>@drawable/anim_09</item>
+        <item>@drawable/anim_10</item>
+        <item>@drawable/anim_11</item>
+        <item>@drawable/anim_12</item>
+        <item>@drawable/anim_13</item>
+        <item>@drawable/anim_14</item>
+        <item>@drawable/anim_15</item>
+        <item>@drawable/anim_16</item>
+        <item>@drawable/anim_17</item>
+        <item>@drawable/anim_18</item>
+        <item>@drawable/anim_19</item>
+        <item>@drawable/anim_20</item>
+        <item>@drawable/anim_21</item>
+        <item>@drawable/anim_22</item>
+        <item>@drawable/anim_23</item>
+        <item>@drawable/anim_24</item>
+        <item>@drawable/anim_25</item>
+        <item>@drawable/anim_26</item>
+        <item>@drawable/anim_27</item>
+        <item>@drawable/anim_28</item>
+        <item>@drawable/anim_29</item>
+        <item>@drawable/anim_30</item>
+        <item>@drawable/anim_31</item>
+        <item>@drawable/anim_32</item>
+        <item>@drawable/anim_33</item>
+        <item>@drawable/anim_34</item>
+        <item>@drawable/anim_35</item>
+        <item>@drawable/anim_36</item>
+        <item>@drawable/anim_37</item>
+        <item>@drawable/anim_38</item>
+        <item>@drawable/anim_39</item>
+        <item>@drawable/anim_40</item>
+    </array>
+
+    <array name="p2">
+        <item>@drawable/anim_40</item>
+        <item>@drawable/anim_39</item>
+        <item>@drawable/anim_38</item>
+        <item>@drawable/anim_37</item>
+        <item>@drawable/anim_36</item>
+        <item>@drawable/anim_35</item>
+        <item>@drawable/anim_34</item>
+        <item>@drawable/anim_33</item>
+        <item>@drawable/anim_32</item>
+        <item>@drawable/anim_31</item>
+        <item>@drawable/anim_30</item>
+        <item>@drawable/anim_29</item>
+        <item>@drawable/anim_28</item>
+        <item>@drawable/anim_27</item>
+        <item>@drawable/anim_26</item>
+        <item>@drawable/anim_25</item>
+        <item>@drawable/anim_24</item>
+        <item>@drawable/anim_23</item>
+        <item>@drawable/anim_22</item>
+        <item>@drawable/anim_21</item>
+        <item>@drawable/anim_20</item>
+        <item>@drawable/anim_19</item>
+        <item>@drawable/anim_18</item>
+        <item>@drawable/anim_17</item>
+        <item>@drawable/anim_16</item>
+        <item>@drawable/anim_15</item>
+        <item>@drawable/anim_14</item>
+        <item>@drawable/anim_13</item>
+        <item>@drawable/anim_12</item>
+        <item>@drawable/anim_11</item>
+        <item>@drawable/anim_10</item>
+        <item>@drawable/anim_09</item>
+        <item>@drawable/anim_08</item>
+        <item>@drawable/anim_07</item>
+        <item>@drawable/anim_06</item>
+        <item>@drawable/anim_05</item>
+        <item>@drawable/anim_04</item>
+        <item>@drawable/anim_03</item>
+        <item>@drawable/anim_02</item>
+        <item>@drawable/anim_01</item>
+        <item>@drawable/anim_00</item>
+    </array>
+
+</resources>
